@@ -1,0 +1,16 @@
+[0510/201828.275:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0510/201828.277:ERROR:exception_snapshot_win.cc(98)] thread ID 22992 not found in process
+[0510/203635.549:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0510/203635.550:ERROR:exception_snapshot_win.cc(98)] thread ID 19824 not found in process
+[0510/212702.444:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0510/212702.447:ERROR:exception_snapshot_win.cc(98)] thread ID 20916 not found in process
+[0511/080217.105:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0511/080217.110:ERROR:exception_snapshot_win.cc(98)] thread ID 24612 not found in process
+[0511/081740.606:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0511/081740.608:ERROR:exception_snapshot_win.cc(98)] thread ID 4824 not found in process
+[0707/112929.512:ERROR:process_info.cc(359)] UncheckedAllocate
+[0709/103427.655:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0709/103427.657:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0709/103427.657:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[0709/103427.657:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0722/101645.573:ERROR:process_info.cc(359)] UncheckedAllocate
